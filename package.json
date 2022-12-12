@@ -1,0 +1,15 @@
+{
+  "name": "malRandomValuesTest",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "getdata": "node index.mjs"
+  },
+  "dependencies": {
+    "node": "^19.2.0",
+    "node-fetch": "^3.3.0",
+    "puppeteer": "^19.4.0"
+  }
+}
